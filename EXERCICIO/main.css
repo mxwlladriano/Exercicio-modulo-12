@@ -1,0 +1,12 @@
+header{
+    justify-content: center;
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: solid 4px gray;
+    background-color: rgb(175, 175, 175);
+    color: black ;
+}
+.teste{
+    padding-top: 50px;
+}
